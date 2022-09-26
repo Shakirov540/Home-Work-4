@@ -49,6 +49,6 @@ repeat {
         zarplataa = 0
     }
     }while iznStavka >= 0
-print("Кредит был выплачен за \(lol) месяцев")
-//
-//
+print("credit bul viplachen \(lol) mesacev")
+
+
